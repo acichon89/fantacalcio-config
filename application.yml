@@ -2,5 +2,5 @@ fantacalcio:
   webapp:
     mainurl: https://fantacalc.io/
   mail:
-    adresses:
+    addresses:
       contact: support@fantacalc.io
