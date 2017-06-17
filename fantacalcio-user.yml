@@ -1,4 +1,6 @@
 fantacalcio:
   user:
     email:
-      defaultLocale: en_GB
+      defaultLocale:
+        language: en
+        region: GB
